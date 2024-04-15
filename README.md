@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BigDexx
+- 👋 Hi, I’m Arvind Dhavala
 - 👀 I’m interested in AI/ML incoporated into Robotics
 - 🌱 I’m currently learning Dev(HTML, CSS , JS , REACT)
 - 💞️ I’m looking to collaborate on ..
